@@ -1,0 +1,10 @@
+{
+  "name": "@markjameshoward/sayhello",
+  "version": "0.0.1",
+  "description": "",
+  "bin": "./bin/index.js",
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
